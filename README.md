@@ -12,7 +12,7 @@ I used [Mackup](https://github.com/lra/mackup) to backup my dotfiles.
 
 To install mackup, you can find more detailed instructions in [INSTALL.md.](https://github.com/lra/mackup/blob/master/INSTALL.md) on their github repository 
 
-In setting up mackup supported storages and application list, you can follow the detialed instructions this [README](https://github.com/lra/mackup/blob/master/doc/README.md)
+In setting up mackup supported storages and application list, you can follow the detialed instructions in this [README](https://github.com/lra/mackup/blob/master/doc/README.md)
 
 I used the file system drive for mackup which gave me the option to specify a folder on my system to backup to and manage it with git. Reference my copy of ``.mackup.cfg ``
 for mackup config 
