@@ -21,7 +21,7 @@ for mackup config
 
 Looking at other people's dotfiles can give you ideas that you can incorporate into your setup. Here are some that I've looked into:
 
-- [drehimself](https://github.com/drehimself/dotfiles)
+- [Drehimself](https://github.com/drehimself/dotfiles)
 - [Dries Vints](https://github.com/driesvints/dotfiles)
 - [Freek Van der Herten](https://github.com/freekmurze/dotfiles)
 - [Wes Bos](https://github.com/wesbos/dotfiles)
