@@ -53,8 +53,11 @@ alias bi="brew update && brew install"
 
 # Spotify
 alias sn="spotify next"
-alias sp="spotify next"
-alias spp="spotify next"
+alias sp="spotify prev"
+alias spp="spotify pause"
+alias sr="spotify  replay"
+alias ss="spotify status"
+alias ssa="spotify status ablum"
 
 # Laravel
 alias a="php artisan"
@@ -100,3 +103,7 @@ typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# fnm
+export PATH=/Users/allanbarku-dicts/.fnm:$PATH
+eval "`fnm env`"
